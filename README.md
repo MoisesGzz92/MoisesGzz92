@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a project for PubSub communication on Codesys
+- 🌱 I’m currently learning IT: C, OOP, OS, etc.
+- 🤔 I’m looking for help with: anything, I am an open person eager to learn (if feedback or suggestions are packed friendly)
+- ⚡ Fun fact: Mexican living in Germany
+  
 <!--
 **MoisesGzz92/MoisesGzz92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
